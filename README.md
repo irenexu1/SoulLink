@@ -161,9 +161,3 @@ docker exec -it $(docker ps -qf name=postgres) \
 - [ ] Public API for external apps to affect soul state
 
 ---
-
-## 📜 License
-
-MIT (will be added once repo structure is finalized)
-
----
