@@ -1,0 +1,12 @@
+{
+  "name": "soulink-desktop-sim",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.ts"
+  },
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
